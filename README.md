@@ -8,7 +8,7 @@
 
 
 
-<p align="left">Computer Science student in the 4th semester with knowledge in C, HTML, and CSS, currently learning more about Java and SQL. Interested in backend development and eager to deepen my skills in software engineering and database management.</p>
+<p align="left">Computer Science student in the 5th semester with knowledge in C, HTML, and CSS, currently learning more about Java and SQL. Interested in backend development and eager to deepen my skills in software engineering and database management.</p>
 
 ###
 
