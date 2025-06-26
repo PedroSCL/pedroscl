@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=54B8FF&height=120&section=header"/>
+
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=54B8FF&size=45&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Pedro+Henrique;I'm+20+years+old;I+am+from+Brasília,+DF;I+study+computer+science;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
@@ -54,7 +54,6 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   </a>
 </div>
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=54B8FF&height=120&section=footer"/>
 
 
 ###
