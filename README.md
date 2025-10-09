@@ -8,7 +8,10 @@
 
 
 
-<p align="left">Computer Science student in the 5th semester with knowledge in Python, Java, C, HTML, and CSS, currently learning more about Python and SQL. Interested in backend development and eager to deepen my skills in software engineering and database management.</p>
+<p align="left">
+Computer Science student in the 6th semester with practical experience in MySQL, SAS, Power BI, Python, and Java. Currently focused on data analysis, visualization, and database management, while also exploring backend development and software engineering to broaden my technical skill set.
+</p>
+
 
 ###
 
