@@ -7,7 +7,7 @@ Hi! I'm **Pedro Henrique**, from **Brasília, Brazil 🇧🇷**
 I’m passionate about data, technology, and building things that make an impact.
 
 - 🔭 Working as a **Data Engineer & Data Analyst at Banco do Brasil**  
-- 🎓 Studying **Computer Science (6th semester)**  
+- 🎓 Studying **Computer Science (7th semester)**  
 - 💡 Expanding my skills in **Python, SQL, Data Engineering, and Machine Learning**  
 - ⚡ In my free time, I love **exploring new data tools, solving programming challenges,** and **developing personal projects**
 
